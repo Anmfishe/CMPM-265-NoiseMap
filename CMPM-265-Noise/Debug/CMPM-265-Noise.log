@@ -1,0 +1,18 @@
+﻿  Source.cpp
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\tilemap.h(22): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\tilemap.h(42): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\tilemap.h(43): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\tilemap.h(44): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\tilemap.h(45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\tilemap.h(48): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\tilemap.h(49): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\tilemap.h(50): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\tilemap.h(51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\noiseutils.h(1217): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\source.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\source.cpp(25): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio\cmpm-265-noise\cmpm-265-noise\source.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  CMPM-265-Noise.vcxproj -> D:\Visual Studio\CMPM-265-Noise\Debug\CMPM-265-Noise.exe
+  CMPM-265-Noise.vcxproj -> D:\Visual Studio\CMPM-265-Noise\Debug\CMPM-265-Noise.pdb (Full PDB)
